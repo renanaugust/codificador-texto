@@ -39,7 +39,7 @@ Por exemplo:
 
 ## 🌐 Link do projeto
 
-- [Acesse o GitPages](https://renanaugust.github.io/codificador-de-texto/)
+- [Acesse o GitPages](https://renanaugust.github.io/codificador-texto/)
 
 
 
